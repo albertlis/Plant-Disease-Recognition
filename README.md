@@ -1,1 +1,1 @@
-# Plant-Disease-Recognition
+Plant-Disease-Recognition
